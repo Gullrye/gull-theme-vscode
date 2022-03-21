@@ -173,7 +173,7 @@
       "name": "[COMMENTS] — The main comments color",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#B362FF"
+        "foreground": "#7f848e"
       }
     },
     {

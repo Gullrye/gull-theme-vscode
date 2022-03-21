@@ -2,7 +2,7 @@
   "name": "gull-theme",
   "displayName": "Gull Theme",
   "description": "A theme based on one-dark-pro and shades-of-purple.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "Gullrye",
   "icon": "images/logo.jpg",
   "repository": {
@@ -18,14 +18,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "gull-theme",
+        "label": "Gull Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/gull-theme.json"
       },
       {
-        "label": "gull-theme-darker",
+        "label": "Gull Theme Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/gull-theme-darker.json"
+      },
+      {
+        "label": "Gull Theme Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gull-theme-flat.json"
       }
     ]
   }
