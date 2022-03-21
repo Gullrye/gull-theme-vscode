@@ -3,7 +3,7 @@
   "displayName": "Gull Theme",
   "description": "A theme based on one-dark-pro and shades-of-purple.",
   "version": "0.0.4",
-  "publisher": "Gullrye",
+  "publisher": "gull-theme",
   "icon": "images/logo.jpg",
   "repository": {
     "type": "git",
