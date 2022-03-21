@@ -2,7 +2,13 @@
   "name": "gull-theme",
   "displayName": "Gull Theme",
   "description": "A theme based on one-dark-pro and shades-of-purple.",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "publisher": "Gullrye",
+  "icon": "images/logo.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gullrye/gull-theme-vscode"
+  },
   "engines": {
     "vscode": "^1.65.0"
   },
